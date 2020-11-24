@@ -1,0 +1,93 @@
+recipeID,"Recipe Name","Main Ingredient",Course,Cuisine,Preparation,"Cooking length","Spicy levels",Dairy,"Link / Location"
+1,"Chick Pea Soup","chick pea",appetiser,Greek,boil,Long,low,no,http://www.ivu.org/recipes/greek/chick.html
+2,"
+Smoky chickpeas on toast","oil, onion or shallot, chipotle paste, passata, chickpeas,  honey, bread, eggs",appetiser,Western,"fry, toast",Quick,low,no,https://www.bbcgoodfood.com/recipes/smoky-chickpeas-toast
+3,"Saucy bean baked eggs","cherry tomatoes, mixed bean salad, baby spinach, eggs, smoked ham",appetiser,Western,fry,Quick,low,no,https://www.bbcgoodfood.com/recipes/saucy-bean-baked-eggs
+4,"Sweet potatoes with mushrooms & rosemary","sweet potato, oil, mushroom, rosemary, parmesan",appetiser,Western,"mircowave, fry, bake",Quick,low,no,https://www.bbcgoodfood.com/recipes/sweet-potatoes-mushrooms-rosemary
+5,"Rice Tikkis","leftover rice, onions, ginger, garlic, green chillies, coriander, salt, flour, oil",appetiser,Indian,fry,Medium,low,no,https://studentrecipes.com/recipes/snacks/rice-tikkis
+6,"Vanilla Bean Cheesecake with Walnut Crust","sour cream, walnut, butter, eggs, sugar, vanilla",dessert,Western,bake,Long,low,yes,https://www.foodandwine.com/recipes/vanilla-bean-cheesecake-walnut-crust
+7,"Mango Sticky Rice (Khao Niaow Ma Muang)","mango, rice",dessert,Thai,steam,Medium,low,no,http://thaifood.about.com/od/thaidesserts/r/thaidessert.htm
+8,"Peanut butter & jam flapjacks","salted butter, crunchy peanut butter, jam, brown sugar, rolled oats",dessert,Western,bake,Quick,low,no,https://www.bbcgoodfood.com/recipes/peanut-butter-and-jam-flapjacks
+9,"Raspberry & pistachio tea cake","pistachio, caster sugar, butter, egg, self-raising flour, Greek yogurt, milk, raspberries, icing sugar",dessert,Western,"bake, mix",Medium,low,yes,https://www.bbcgoodfood.com/recipes/raspberry-pistachio-tea-cake
+10,Cupcakes,"butter, caster sugar, large egg, self-raising flour, icing sugar, vanilla extract, milk, food colouring",dessert,Western,"bake, mix",Quick,low,yes,https://www.bbcgoodfood.com/recipes/cupcakes
+11,"blueberry muffins","unsalted butter, caster sugar, eggs, yogurt, vanilla extract, milk, plain flour, baking powder, bicarbonate of soda, blueberries",dessert,Western,"bake, mix",Quick,low,yes,https://www.bbcgoodfood.com/recipes/blueberry-muffin
+12,"Pizza Dough","plain or all-purpose flour",main,Western,bake,Quick,low,no,http://www.achefshelp.com/recipe/5625/chicken-spicy-saladkai-plah-plain-and-spicy-salads-thailand-around-the-world
+13,"Chicken Rice Curry With Coconut ( Koa Mook Gai )","chicken, rice, coconut",main,Thai,"stir fry",Medium,low,no,http://www.khiewchanta.com/archives/curries/chicken-curry-recipes/chicken-rice-curry-with-coconu-1.html
+14,"Chicken Spicy Salad Recipe (Kai Plah)","chicken, lemongrass, lime leaves, hot chili",main,Thai,steam,,high,no,http://www.thaifoodplus.com/Thai/Recipes/Salad/Chicken_Spicy_Salad_Recipe.php
+15,"Spinach Pie (Spanakopita)","spinach, pie crust",main,Greek,baked,Medium,low,no,http://en.wikibooks.org/wiki/Cookbook:Spanakopita
+16,"Roasted aubergine & tomato curry","aubergine, onions, rice, tomato, garam masala, coconut milk",main,Indian,roast,Medium,low,yes,https://www.bbcgoodfood.com/recipes/roasted-aubergine-tomato-curry
+17,"Cauli-kale sausage bake","cauliflower, kale, sausage, cheese, cheese sauce",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/cali-kale-sausage-bake
+18,"Sausage ragu","olive oil,onion,  garlic, chilli flakes, rosemary, tomatoes, pork sausages, milk, rigatoni pasta, parmesan",main,Western,"fry, boil",Medium,higih,yes,https://www.bbcgoodfood.com/recipes/sausage-ragu
+19,"Double bean & roasted pepper chilli","onions, celery sticks, peppers, oil, roasted red peppers, chipotle paste, dried oregano, smoked paprika, cumin, cinnamon, tomatoes, refried beans, kidney beans, black beans",main,Western,fry,Long,high,no,https://www.bbcgoodfood.com/recipes/double-bean-roasted-pepper-chilli
+20,"nasi goreng","oil, onion, garlic, carrot, cabbage,  brown rice, soy sauce, egg",main,Indonesian,"fry, boil",Quick,low,no,https://www.bbcgoodfood.com/recipes/quick-spicy-nasi-goreng
+21,"Mexican pulled chicken & beans","chicken thighs, chipotle paste, garlic, tomatoes, onion, black beans, kidney beans,  parsley or coriander or mint, iceberg lettuce, cucumber, olive oil, tortilla chips",main,Mexican,bake,Long,low,no,https://www.bbcgoodfood.com/recipes/mexican-pulled-chicken-beans
+22,"Cheesy ham & broccoli pasta","pasta, broccoli, oil, onion, garlic, ham, double cream, mustard, cheddar",main,Western,"boil, fry",Quick,low,yes,https://www.bbcgoodfood.com/recipes/cheesy-ham-broccoli-pasta
+23,"Creamy garlic, lemon & spinach salmon","sweet potatoes, oil, salmon fillets, garlic, spinach, lemon, mascarpone, milk ",main,Western,"fry, microwave",Quick,low,yes,https://www.bbcgoodfood.com/recipes/creamy-garlic-lemon-spinach-salmon
+24,"Caponata pasta","oil, onion,  garlic, peppers, aubergines, tomatoes, capers, raisins, pasta, basil leaves, parmesan",main,Western,"boil, fry",Quick,low,no,https://www.bbcgoodfood.com/recipes/caponata-pasta
+25,"Baked Garlic Parmesan Chicken","oil, garlic, bread crumbs, Parmesan, dried basil, chicken breast",main,Western,bake,Medium,low,no,https://www.allrecipes.com/recipe/55860/baked-garlic-parmesan-chicken/
+26,"cottage pie","oil, onion, carrot, minced beef, chestnut mushrooms, 
+tomatoes, beef stock, salt, ground black pepper, potato, butter, flour",main,Western,"fry, bake",Medium,low,no,https://www.goodtoknow.co.uk/recipes/cottage-pie
+27,"Roast chicken","whole chicken, bacon, salt, pepper, butter, sage, breadcrumbs, egg, butter, salt, pepper, sage, onions",main,Western,roast,Long,low,no,https://www.goodtoknow.co.uk/recipes/roast-chicken-with-sage-and-onion-stuffing
+28,"Pork Fried Rice","butter, pork loin chop, carrot, broccoli, onion, egg, rice, peas, soy sauce, garlic powder, ground ginger",main,Oriental,"stir fry",Quick,low,no,https://www.allrecipes.com/recipe/230818/pork-fried-rice/
+29,"butter bean & chorizo stew","chorizo, tomatoes, butter beans, pesto",main,Western,stew,Quick,high,no,https://www.bbcgoodfood.com/recipes/butter-bean-chorizo-stew
+30,"Prawn & leek frittata","leek, king prawns, eggs,  cream cheese",main,Western,"fry, grill",Quick,low,yes,https://www.bbcgoodfood.com/recipes/prawn-leek-frittata
+31,"Sausages with pesto mash","potatoes, oil, pork sausages, cherry tomatoes, pesto",main,Western,"fry, boil",Quick,low,no,https://www.bbcgoodfood.com/recipes/sausage-pesto-mash
+32,"Moroccan lamb","lamb neck, paprika, cinnamon, tomato, parsley",main,Moroccan,fry,Medium,high,no,https://www.bbcgoodfood.com/recipes/moroccan-lamb
+33,"Muddled potato & mozzarella tortilla","oil, potatoes, eggs , tomatoes, mozzarella",main,Western,"fry, grill",Quick,low,yes,https://www.bbcgoodfood.com/recipes/muddled-potato-mozzarella-tortilla
+34,"Squash & coconut curry","Madras curry paste, butternut squash, red pepper, coconut milk, coriander",main,Indian,fry,Quick,low,no,https://www.bbcgoodfood.com/recipes/squash-coconut-curry
+35,"Spicy lamb with chickpeas","lamb, tomato, harissa paste, chickpeas, coriander",main,Western,broil,Medium,low,no,https://www.bbcgoodfood.com/recipes/spicy-lamb-chickpeas
+36,"Plaice in a hot vinaigrette","plaice fillets, oil, garlic,  leeks, washed, lemon ",main,Western,"fry. grill",Quick,low,no,https://www.bbcgoodfood.com/recipes/plaice-hot-vinaigrette
+37,"Corned beef hash","potato, oil, corned beef, onion,  celery, dried oregano, Worcestershire sauce, parsley",main,Western,fry,Quick,low,no,https://www.deliciousmagazine.co.uk/recipes/corned-beef-hash/
+38,"Balsamic Marinade","balsamic vinegar",side,Western,mix,Quick,low,no,http://en.wikibooks.org/wiki/Cookbook:Balsamic_Marinade
+39,"Afghan Bread","whole-wheat Flour",side,"Afghan, Indian",baked,Long,low,no,http://en.wikibooks.org/wiki/Cookbook:Afghan_bread
+40,"Bacon Wrapped Asparagus","bacon, asparagus",side,Western,grill,Medium,low,no,https://foodnetwork.co.uk/recipes/asparagus-bundles/
+41,"Halloumi flatbreads","pumpkin seeds, cumin seeds, red cabbage, peppers, flatbreads or wraps, hummus, rocket, halloumi",side,???,fry,Quick,low,no,https://www.bbcgoodfood.com/recipes/halloumi-flatbreads
+42,"Pan-fried camembert sandwich","bread, camembert or brie, cranberry sauce, balsamic vinegar, butter",snack,Western,fry,Quick,low,no,https://www.bbcgoodfood.com/recipes/pan-fried-camembert-sandwich
+43,"Easy Chicken Curry","Sunflower oil, onion, garlic, ginger, chicken thighs, tikka spice paste, chopped tomatoes, greek yogurt, coriander, ground almonds, basmate rice ",main,Indian,fry,Medium,high,yes,https://www.bbcgoodfood.com/recipes/easy-chicken-curry
+44,"Frying pan pizza with aubergine, ricotta & mint","white bread flour, fast-action dried yeast, golden caster sugar, olive oil, garlic, passata, aubergine, ricotta, mint",main,Western,fry,Medium,low,no,https://www.bbcgoodfood.com/recipes/frying-pan-pizza-aubergine-ricotta-mint
+45,"Huevos Rancheros","olive oil, small onion, garlic, red kidney beans, cumin, chilli powder, oregano, eggs, tortillas, tomat, pickled jalapeno, cheddar, avocado, lime, coriander",main,Mexican,fry,Quick,high,yes,https://www.bbcgoodfood.com/recipes/huevos-rancheros
+46,"Spaghetti Carbonara","pancetta, pecorino cheese, parmesan, eggs, spaghetti, garlic, butter",main,Western,fry,Quick,low,yes,https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe
+47,"Chorizo & chilli pepper pasta","penne, olive oil, chorizo, can cherry tomatoes, guindilla pickled chilli, basil, parmesan",main,Western,fry,Quick,high,no,https://www.bbcgoodfood.com/recipes/chorizo-chilli-pepper-pasta
+48,"Tuna pasta bake","rigatoni, butter, plain flour, milk, strong cheddar, tuna, sweetcorn, parsley",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/tuna-pasta-bake
+49,"Lentil soup","vegetable stock, red lentils, carrots, leeks, parsley",side,Western,boil,Medium,low,no,https://www.bbcgoodfood.com/recipes/lentil-soup
+50,"Thai red curry","vegetable oil, ginger paste, garlic paste, red curry paste, coconut milk, chicken thighs, kaffir lime leaves, fish sauce, brown sugar, basil, red chilli, ginger, rice",main,Thai,boil,Quick,high,no,https://www.bbcgoodfood.com/recipes/thai-red-curry
+51,"Chicken noodle soup","chicken stock, chicken breast, ginger, garlic, noodles, sweetcorn, mushrooms, spring onions, soy sauce, mint",appetiser,???,boil,Quick,low,no,https://www.bbcgoodfood.com/recipes/chicken-noodle-soup
+52,"beer-braised brisket pot roast","beef stock, dried tarragon, beef brisket, oil, dark ale, beef extract, muscovado sugar, onion flakes, broccoli",main,Western,bake,Long,low,no,https://www.bbcgoodfood.com/recipes/beer-braised-brisket-pot-roast
+53,"Tandoori chicken","lemon juice, paprika, red onions, chicken thighs, vegetable oil, greek yogurt, ginger, garlic, garam masala, cumin, chilli powder, turmeric",main,Indian,grill,Medium,high,yes,https://www.bbcgoodfood.com/recipes/tandoori-chicken
+54,"Beef goulash","olive oil, steak, plain flour, onion, garlic, pepper, tomato puree, paprika, tomatoes, white wine, beef stock, parsley, soured cream",main,Western,bake,Long,low,yes,https://www.bbcgoodfood.com/recipes/beef-goulash
+55,"Roast aubergine with goulash sauce & sweet potato fries","aubergine, rapeseed oil, sweet potatoes, thyme leaves, onion, pepper, garlic, smoked paprika, cherry tomatoes, tomato puree, vegetable bouillon powder, spinach, pumpkin seeds",main,Western,bake,Quick,low,no,https://www.bbcgoodfood.com/recipes/roast-aubergine-goulash-sauce-sweet-potato-fries
+56,Ratatouille,"aubergine, courgette, pepper, tomatoe, olive oil, basil, onion, garlic, red wine, sugar",main,Western,fry,Medium,low,no,https://www.bbcgoodfood.com/recipes/ratatouille
+57,"Over baked ratatouille and sausages","onion, courgette, pepper, olive oil, sausages, garlic, can chopped tomato",main,Western,bake,Medium,low,no,https://www.bbcgoodfood.com/recipes/oven-baked-ratatouille-sausages
+58,"Sausage & bean casserole","olive oil, onion, celery, peper, chorizo, sausage, garlic, smoked paprika, cumin, thyme, white wine, can cherry tomatoes, chicken stock, aduki beans, chives",main,Western,bake,Medium,low,no,https://www.bbcgoodfood.com/recipes/sausage-bean-casserole
+59,"Sausage casserole with garlic breadcrumbs","olive oil, sausages, onion, golden caster sugar, red wine, tomato puree, smoked paprika, chopped tomatoes, red wine vinegar, bay leaves, butter beans, breadcrumbs, garlic, parsley ",main,Western,bake,Medium,low,no,https://www.bbcgoodfood.com/recipes/one-pot-sausage-casserole-with-garlic-breadcrumbs
+60,"Tomato & mascarpone risotto","olive oil, onion, garlic, risotto rice, cherry tomatoes, vegetable stock, parmesan, mascarpone, basil",main,Western,boil,Quick,low,no,https://www.bbcgoodfood.com/recipes/tomato-mascarpone-risotto
+61,"Minestrone soup","carrots, onion, celery, olive oil, garlic, potatoes, tomato puree, vegetable stock, can chopped tomatoes, butter beans, spaghetti, savoy cabbage",appetiser,Western,boil,Medium,low,no,https://www.bbcgoodfood.com/recipes/chunky-minestrone-soup
+62,"Chilli con carne ","onion, pepper, garlic, oil, chilli powder, paprika, cumin, minced beef, beef stock, chopped tomatoes, marjoram, sugar, tomato puree, red kidney beans, rice",main,Western,boil,Medium,high,no,https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe
+63,"Coconut fish curry","vegetable oil, onion, ginger, garlic, shrimp paste, red chilli, lemongrass, curry powder, muscovado sugar, coriander, coconut milk, hake fillets, prawns, lime, rice",main,Indian,boil,Quick,high,no,https://www.bbcgoodfood.com/recipes/coconut-fish-curry
+64,"Creamy fish curry","rice, curry paste, onion, coconut milk, chicken stock, green bena, white fish, spring onions",main,Thai,boil,Quick,low,no,https://www.bbcgoodfood.com/recipes/creamy-fish-curry
+65,"meatball & garlic bread traybake","turkey thigh mince, oregano, fennel seeds, olive oil, garlic, tomato puree, chopped tomatoes, sugar, mozzarella, garlic bread, cheedar, spaghetti",main,Western,"bake ",Medium,low,yes,https://www.bbcgoodfood.com/recipes/meatball-garlic-bread-traybake
+66,"Beef & Guinness stew with bacon dumplings","vegetable oil, beef, onions, carrots, celery, plain flour, beef stock, guinness, thyme, star anise, cabbage, bacon, thyme, self-raising flour, egg, parsley, beef suet",main,Western,bake,Long,low,no,https://www.bbcgoodfood.com/recipes/beef-guinness-stew-bacon-dumplings
+67,"Cheesy mustard toad in the hole with broccoli","plain flour, eggs, milk, mustard, vegetable oil, sausages, broccoli, leek, cheddar, onion, vinegar, thyme, chicken stock",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/easy-cheesy-mustard-toad-hole-broccoli
+68,"toad in the hole","chipolatas, oil, plain flour, eggs, milk",main,Western,bake,Medium,high,yes,https://www.bbcgoodfood.com/recipes/sams-toad-hole
+69,"toad in hole with caramelised onion gravy","plain flour, eggs, milk, mustard, oil, bacon, sausages, red onions, golden caster sugar, balsamic vinegar, red wine, beef stock",main,Western,bake,Medium,high,yes,https://www.bbcgoodfood.com/recipes/ultimate-toad-hole-caramelised-onion-gravy
+70,"Cauliflower rarebits","vegetable oil, cauliflower, butter, flour, milk, cheddar, mustard, eggs, onion chutney",appetiser,Western,fry,Medium,high,yes,https://www.bbcgoodfood.com/recipes/cauliflower-rarebits
+71,"Fish pie mac n cheese","milk, plain flour, butter, dijon mustard, cheddar, peas, parsley, white fish",main,Western,bake,Medium,high,yes,https://www.bbcgoodfood.com/recipes/fish-pie-mac-n-cheese
+72,"3 veg mac n cheese","butternut squash, penne, butter, leek, flour, milk, peas, cheddar, ",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/3-veg-mac-n-cheese
+73,"mac n cheese","macaroni, butter, plain flour, milk, cheddar, mustard powder, parmesan",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/macaroni-cheese-marmite
+74,"Creamy fish & leek pie","potatoes, double cream, milk, cheddar, parmesan, butter, leeks, nutmeg, mustard, white wine, chives, lemon, haddock, salmon, prawns, ",main,Western,bake,Long,low,yes,https://www.bbcgoodfood.com/recipes/creamy-fish-leek-pie
+75,"Fish pie with swede & potato topping","potato, swede, cheese, vegetable stock, cornflour, cod, prawn, parsley",main,Western,bake,Medium,low,no,https://www.bbcgoodfood.com/recipes/fish-pie-swede-potato-topping
+76,"beef burgers","onion, beef mince, egg, vegetable oil, ",main,Western,grill,Quick,low,no,https://www.bbcgoodfood.com/recipes/beef-burgers-learn-make
+77,"Cauliflower Cheese soup","butter, onion, cauliflower, potato, vegetable stock, milk, cheddar",appetiser,Western,boil,Quick,low,yes,https://www.bbcgoodfood.com/recipes/cauliflower-cheese-soup
+78,"Lamb keema shepherd's pie","rapeseed oil, onions, lamb mince, ginger, garlic, cinnamon, turmeric, curry powder, tomato puree, beef stock, sugar, sweet potatoes, potatoes, cheddar, peas, ",main,Western,bake,Long,high,no,https://www.bbcgoodfood.com/recipes/lamb-keema-shepherds-pie
+79,"Shepherd's pie","oil, onion, carrots, lamb mince, tomato puree, beef stock, potatoes, butter, milk",main,Western,bake,Medium,low,yes,https://www.bbcgoodfood.com/recipes/no-fuss-shepherds-pie
+80,"Saag paneer kedgeree","eggs, vegetable oil, red onion, paneer, curry powder, spinach, coconut rice, red chilli ",main,Indian,fry,Quick,high,no,https://www.bbcgoodfood.com/recipes/saag-paneer-kedgeree
+81,"Soft boiled eggs","eggs, bread",snack,Western,boil,Quick,low,no,https://www.bbcgoodfood.com/recipes/soft-boiled-eggs
+82,"Poached egg on toast","egg, bread",snack,Western,boil,Quick,low,no,https://www.bbc.co.uk/food/recipes/poached_egg_on_toast_67634
+83,"Pita bread and hummus","pita bread, hummus",snack,???,toast,Quick,low,no,Basic
+84,"Egg and bacon on toast","egg, bacon, bread",snack,Western,fry,Quick,low,no,Basic
+85,"Beans on toast","Baked beans, bread",snack,Western,toast,Quick,low,no,Basic
+86,Omelette,"egg, butter",snack,Western,fry,Quick,low,no,https://www.bbcgoodfood.com/recipes/basic-omelette
+87,pancakes,"plain flour, eggs, milk",snack,Western,fry,Quick,low,yes,https://www.bbcgoodfood.com/recipes/easy-pancakes
+88,Porridge,"oats, milk",snack,Western,boil,Quick,low,yes,https://www.goodtoknow.co.uk/recipes/porridge
+89,"jam on toast","bread, jam",snack,Western,toast,Quick,low,no,basic
+90,"eggy bread","eggs, milk, bread",snack,Western,fry,Quick,low,yes,https://www.bbcgoodfood.com/recipes/eggy-bread
