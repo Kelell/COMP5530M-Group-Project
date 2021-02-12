@@ -1,0 +1,11 @@
+recipeID,Recipe Name,Course,Cuisine,Preparation,Cooking length,Spicy levels,Dairy,Gluten,Diet,Link / Location
+81,Soft boiled eggs,snack,Western,boil,Quick,low,0,1,Vegetarian,https://www.bbcgoodfood.com/recipes/soft-boiled-eggs
+82,Poached egg on toast,snack,Western,boil,Quick,low,0,1,vegetarian,https://www.bbc.co.uk/food/recipes/poached_egg_on_toast_67634
+83,Pita bread and hummus,snack,Mediterranean,toast,Quick,low,0,1,Vegan,Basic
+84,Egg and bacon on toast,snack,Western,fry,Quick,low,0,1,Meat,Basic
+85,Beans on toast,snack,Western,toast,Quick,low,0,1,Vegan,Basic
+86,Omelette,snack,Western,fry,Quick,low,0,0,Vegetarian,https://www.bbcgoodfood.com/recipes/basic-omelette
+87,pancakes,snack,Western,fry,Quick,low,1,1,Vegetarian,https://www.bbcgoodfood.com/recipes/easy-pancakes
+88,Porridge,snack,Western,boil,Quick,low,1,0,Vegetarian,https://www.goodtok0w.co.uk/recipes/porridge
+89,jam on toast,snack,Western,toast,Quick,low,0,1,Vegan,basic
+90,eggy bread,snack,Western,fry,Quick,low,1,1,Vegetarian,https://www.bbcgoodfood.com/recipes/eggy-bread
