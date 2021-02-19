@@ -1,0 +1,6 @@
+USER_ID,USERNAME,PASSWORD,DAIRY,GLUTEN,VEGAN,VEGETARIAN
+2,Sarah,Sarah1,false,true,false,true
+3,Jane,Jane1,true,false,false,true
+4,Thomas,Thomas1,false,true,true,false
+5,Stuart,Stuart1,true,true,false,false
+6,Maria,Maria1,false,false,false,false
