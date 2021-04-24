@@ -1,0 +1,91 @@
+recipeID,Recipe Name,Course,Cuisine,Preparation,Cooking length,Spicy levels,Dairy,Gluten,Vegan,Vegetarian,Link / Location
+1,Chick Pea Soup,appetiser,Greek,boil,Long,low,0,0,1,0,http://www.ivu.org/recipes/greek/chick.html
+2,Smoky chickpeas on toast,appetiser,Western,"fry, toast",Quick,low,0,1,0,1,https://www.bbcgoodfood.com/recipes/smoky-chickpeas-toast
+3,Saucy bean baked eggs,appetiser,Western,fry,Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/saucy-bean-baked-eggs
+4,Sweet potatoes with mushrooms & rosemary,appetiser,Western,"mircowave, fry, bake",Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/sweet-potatoes-mushrooms-rosemary
+5,Rice Tikkis,appetiser,Indian,fry,Medium,low,0,0,1,0,https://studentrecipes.com/recipes/snacks/rice-tikkis
+6,Vanilla Bean Cheesecake with Walnut Crust,dessert,Western,bake,Long,low,1,0,0,1,https://www.foodandwine.com/recipes/vanilla-bean-cheesecake-walnut-crust
+7,Mango Sticky Rice (Khao Niaow Ma Muang),dessert,Thai,steam,Medium,low,0,0,1,0,http://thaifood.about.com/od/thaidesserts/r/thaidessert.htm
+8,Peanut butter & jam flapjacks,dessert,Western,bake,Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/peanut-butter-and-jam-flapjacks
+9,Raspberry & pistachio tea cake,dessert,Western,"bake, mix",Medium,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/raspberry-pistachio-tea-cake
+10,Cupcakes,dessert,Western,"bake, mix",Quick,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/cupcakes
+11,blueberry muffins,dessert,Western,"bake, mix",Quick,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/blueberry-muffin
+12,Pizza Dough,main,Western,bake,Quick,low,0,1,1,0,http://www.achefshelp.com/recipe/5625/chicken-spicy-saladkai-plah-plain-and-spicy-salads-thailand-around-the-world
+13,Chicken Rice Curry With Coconut ( Koa Mook Gai ),main,Thai,stir fry,Medium,low,0,0,0,0,http://www.khiewchanta.com/archives/curries/chicken-curry-recipes/chicken-rice-curry-with-coconu-1.html
+14,Chicken Spicy Salad Recipe (Kai Plah),main,Thai,steam,Medium,high,0,0,0,0,http://www.thaifoodplus.com/Thai/Recipes/Salad/Chicken_Spicy_Salad_Recipe.php
+15,Spinach Pie (Spanakopita),main,Greek,baked,Medium,low,0,1,0,1,http://en.wikibooks.org/wiki/Cookbook:Spanakopita
+16,Roasted aubergine & tomato curry,main,Indian,roast,Medium,low,1,0,0,1,https://www.bbcgoodfood.com/recipes/roasted-aubergine-tomato-curry
+17,Cauli-kale sausage bake,main,Western,bake,Medium,low,1,0,0,0,https://www.bbcgoodfood.com/recipes/cali-kale-sausage-bake
+18,Sausage ragu,main,Western,"fry, boil",Medium,higih,1,0,0,0,https://www.bbcgoodfood.com/recipes/sausage-ragu
+19,Double bean & roasted pepper chilli,main,Western,fry,Long,high,0,0,1,0,https://www.bbcgoodfood.com/recipes/double-bean-roasted-pepper-chilli
+20,nasi goreng,main,Indonesian,"fry, boil",Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/quick-spicy-nasi-goreng
+21,Mexican pulled chicken & beans,main,Mexican,bake,Long,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/mexican-pulled-chicken-beans
+22,Cheesy ham & broccoli pasta,main,Western,"boil, fry",Quick,low,1,1,0,0,https://www.bbcgoodfood.com/recipes/cheesy-ham-broccoli-pasta
+23,"Creamy garlic, lemon & spinach salmon",main,Western,"fry, microwave",Quick,low,1,0,0,0,https://www.bbcgoodfood.com/recipes/creamy-garlic-lemon-spinach-salmon
+24,Caponata pasta,main,Western,"boil, fry",Quick,low,0,1,0,1,https://www.bbcgoodfood.com/recipes/caponata-pasta
+25,Baked Garlic Parmesan Chicken,main,Western,bake,Medium,low,0,0,0,0,https://www.allrecipes.com/recipe/55860/baked-garlic-parmesan-chicken/
+26,cottage pie,main,Western,"fry, bake",Medium,low,0,1,0,0,https://www.goodtoknow.co.uk/recipes/cottage-pie
+27,Roast chicken,main,Western,roast,Long,low,0,1,0,0,https://www.goodtoknow.co.uk/recipes/roast-chicken-with-sage-and-onion-stuffing
+28,Pork Fried Rice,main,Oriental,stir fry,Quick,low,0,0,0,0,https://www.allrecipes.com/recipe/230818/pork-fried-rice/
+29,butter bean & chorizo stew,main,Western,stew,Quick,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/butter-bean-chorizo-stew
+30,Prawn & leek frittata,main,Western,"fry, grill",Quick,low,1,0,0,0,https://www.bbcgoodfood.com/recipes/prawn-leek-frittata
+31,Sausages with pesto mash,main,Western,"fry, boil",Quick,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/sausage-pesto-mash
+32,Moroccan lamb,main,Moroccan,fry,Medium,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/moroccan-lamb
+33,Muddled potato & mozzarella tortilla,main,Western,"fry, grill",Quick,low,1,0,0,1,https://www.bbcgoodfood.com/recipes/muddled-potato-mozzarella-tortilla
+34,Squash & coconut curry,main,Indian,fry,Quick,low,0,0,1,0,https://www.bbcgoodfood.com/recipes/squash-coconut-curry
+35,Spicy lamb with chickpeas,main,Western,broil,Medium,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/spicy-lamb-chickpeas
+36,Plaice in a hot vinaigrette,main,Western,fry. grill,Quick,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/plaice-hot-vinaigrette
+37,Corned beef hash,main,Western,fry,Quick,low,0,0,0,0,https://www.deliciousmagazine.co.uk/recipes/corned-beef-hash/
+38,Balsamic Marinade,side,Western,mix,Quick,low,0,0,1,0,http://en.wikibooks.org/wiki/Cookbook:Balsamic_Marinade
+39,Afghan Bread,side,"Afghan, Indian",baked,Long,low,0,1,1,0,http://en.wikibooks.org/wiki/Cookbook:Afghan_bread
+40,Bacon Wrapped Asparagus,side,Western,grill,Medium,low,0,0,0,0,https://foodnetwork.co.uk/recipes/asparagus-bundles/
+41,Halloumi flatbreads,side,???,fry,Quick,low,0,1,1,0,https://www.bbcgoodfood.com/recipes/halloumi-flatbreads
+42,Pan-fried camembert sandwich,snack,Western,fry,Quick,low,0,1,0,1,https://www.bbcgoodfood.com/recipes/pan-fried-camembert-sandwich
+43,Easy Chicken Curry,main,Indian,fry,Medium,high,1,0,0,0,https://www.bbcgoodfood.com/recipes/easy-chicken-curry
+44,"Frying pan pizza with aubergine, ricotta & mint",main,Western,fry,Medium,low,0,1,1,0,https://www.bbcgoodfood.com/recipes/frying-pan-pizza-aubergine-ricotta-mint
+45,Huevos Rancheros,main,Mexican,fry,Quick,high,1,1,0,1,https://www.bbcgoodfood.com/recipes/huevos-rancheros
+46,Spaghetti Carbonara,main,Western,fry,Quick,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/ultimate-spaghetti-carbonara-recipe
+47,Chorizo & chilli pepper pasta,main,Western,fry,Quick,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/chorizo-chilli-pepper-pasta
+48,Tuna pasta bake,main,Western,bake,Medium,low,1,1,0,0,https://www.bbcgoodfood.com/recipes/tuna-pasta-bake
+49,Lentil soup,side,Western,boil,Medium,low,0,0,1,0,https://www.bbcgoodfood.com/recipes/lentil-soup
+50,Thai red curry,main,Thai,boil,Quick,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/thai-red-curry
+51,Chicken noodle soup,appetiser,???,boil,Quick,low,0,1,0,0,https://www.bbcgoodfood.com/recipes/chicken-noodle-soup
+52,beer-braised brisket pot roast,main,Western,bake,Long,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/beer-braised-brisket-pot-roast
+53,Tandoori chicken,main,Indian,grill,Medium,high,1,0,0,0,https://www.bbcgoodfood.com/recipes/tandoori-chicken
+54,Beef goulash,main,Western,bake,Long,low,1,1,0,0,https://www.bbcgoodfood.com/recipes/beef-goulash
+55,Roast aubergine with goulash sauce & sweet potato fries,main,Western,bake,Quick,low,0,0,1,0,https://www.bbcgoodfood.com/recipes/roast-aubergine-goulash-sauce-sweet-potato-fries
+56,Ratatouille,main,Western,fry,Medium,low,0,0,1,0,https://www.bbcgoodfood.com/recipes/ratatouille
+57,Over baked ratatouille and sausages,main,Western,bake,Medium,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/oven-baked-ratatouille-sausages
+58,Sausage & bean casserole,main,Western,bake,Medium,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/sausage-bean-casserole
+59,Sausage casserole with garlic breadcrumbs,main,Western,bake,Medium,low,0,1,0,0,https://www.bbcgoodfood.com/recipes/one-pot-sausage-casserole-with-garlic-breadcrumbs
+60,Tomato & mascarpone risotto,main,Western,boil,Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/tomato-mascarpone-risotto
+61,Minestrone soup,appetiser,Western,boil,Medium,low,0,1,1,0,https://www.bbcgoodfood.com/recipes/chunky-minestrone-soup
+62,Chilli con carne ,main,Western,boil,Medium,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/chilli-con-carne-recipe
+63,Coconut fish curry,main,Indian,boil,Quick,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/coconut-fish-curry
+64,Creamy fish curry,main,Thai,boil,Quick,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/creamy-fish-curry
+65,meatball & garlic bread traybake,main,Western,bake ,Medium,low,1,1,0,0,https://www.bbcgoodfood.com/recipes/meatball-garlic-bread-traybake
+66,Beef & Guinness stew with bacon dumplings,main,Western,bake,Long,low,0,1,0,0,https://www.bbcgoodfood.com/recipes/beef-guinness-stew-bacon-dumplings
+67,Cheesy mustard toad in the hole with broccoli,main,Western,bake,Medium,low,1,1,0,0,https://www.bbcgoodfood.com/recipes/easy-cheesy-mustard-toad-hole-broccoli
+68,toad in the hole,main,Western,bake,Medium,high,1,1,0,0,https://www.bbcgoodfood.com/recipes/sams-toad-hole
+69,toad in hole with caramelised onion gravy,main,Western,bake,Medium,high,1,1,0,0,https://www.bbcgoodfood.com/recipes/ultimate-toad-hole-caramelised-onion-gravy
+70,Cauliflower rarebits,appetiser,Western,fry,Medium,high,1,1,0,1,https://www.bbcgoodfood.com/recipes/cauliflower-rarebits
+71,Fish pie mac n cheese,main,Western,bake,Medium,high,1,1,0,0,https://www.bbcgoodfood.com/recipes/fish-pie-mac-n-cheese
+72,3 veg mac n cheese,main,Western,bake,Medium,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/3-veg-mac-n-cheese
+73,mac n cheese,main,Western,bake,Medium,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/macaroni-cheese-marmite
+74,Creamy fish & leek pie,main,Western,bake,Long,low,1,0,0,0,https://www.bbcgoodfood.com/recipes/creamy-fish-leek-pie
+75,Fish pie with swede & potato topping,main,Western,bake,Medium,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/fish-pie-swede-potato-topping
+76,beef burgers,main,Western,grill,Quick,low,0,0,0,0,https://www.bbcgoodfood.com/recipes/beef-burgers-learn-make
+77,Cauliflower Cheese soup,appetiser,Western,boil,Quick,low,1,0,0,1,https://www.bbcgoodfood.com/recipes/cauliflower-cheese-soup
+78,Lamb keema shepherd's pie,main,Western,bake,Long,high,0,0,0,0,https://www.bbcgoodfood.com/recipes/lamb-keema-shepherds-pie
+79,Shepherd's pie,main,Western,bake,Medium,low,1,0,0,0,https://www.bbcgoodfood.com/recipes/no-fuss-shepherds-pie
+80,Saag paneer kedgeree,main,Indian,fry,Quick,high,0,0,0,1,https://www.bbcgoodfood.com/recipes/saag-paneer-kedgeree
+81,Soft boiled eggs,snack,Western,boil,Quick,low,0,1,0,1,https://www.bbcgoodfood.com/recipes/soft-boiled-eggs
+82,Poached egg on toast,snack,Western,boil,Quick,low,0,1,0,1,https://www.bbc.co.uk/food/recipes/poached_egg_on_toast_67634
+83,Pita bread and hummus,snack,???,toast,Quick,low,0,1,1,0,Basic
+84,Egg and bacon on toast,snack,Western,fry,Quick,low,0,1,0,0,Basic
+85,Beans on toast,snack,Western,toast,Quick,low,0,1,1,0,Basic
+86,Omelette,snack,Western,fry,Quick,low,0,0,0,1,https://www.bbcgoodfood.com/recipes/basic-omelette
+87,pancakes,snack,Western,fry,Quick,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/easy-pancakes
+88,Porridge,snack,Western,boil,Quick,low,1,0,0,1,https://www.goodtoknow.co.uk/recipes/porridge
+89,jam on toast,snack,Western,toast,Quick,low,0,1,1,0,basic
+90,eggy bread,snack,Western,fry,Quick,low,1,1,0,1,https://www.bbcgoodfood.com/recipes/eggy-bread
